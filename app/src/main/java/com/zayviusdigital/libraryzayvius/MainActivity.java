@@ -12,8 +12,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        Log.d("test_asset",   ArtificialIntelligence.json_from_asset(this,"test.txt"));
+        Log.d("test_asset",   ArtificialIntelligence.txt_from_asset(this,"test.txt"));
     }
+
+
 
 
 }

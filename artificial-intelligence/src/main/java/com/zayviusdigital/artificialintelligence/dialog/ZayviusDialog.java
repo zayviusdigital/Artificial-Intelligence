@@ -3,11 +3,11 @@ package com.zayviusdigital.artificialintelligence.dialog;
 import android.app.Activity;
 import android.app.ProgressDialog;
 
-public class DialogWait {
+public class ZayviusDialog {
     private final  Activity activity;
     private ProgressDialog pd;
 
-    public DialogWait(Activity myActivity) {
+    public ZayviusDialog(Activity myActivity) {
         activity = myActivity;
     }
 

@@ -1,8 +1,8 @@
 package com.zayviusdigital.artificialintelligence.listener;
 
 
-public abstract class OnListener {
-    public OnListener() {
+public abstract class ZayviusOnListener {
+    public ZayviusOnListener() {
     }
 
     public void load() {

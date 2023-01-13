@@ -1,4 +1,4 @@
-package com.zayviusdigital.artificialintelligence.txtreader;
+package com.zayviusdigital.artificialintelligence.txt;
 
 import android.content.Context;
 
@@ -9,7 +9,7 @@ import java.io.InputStream;
 import java.util.Objects;
 
 public class TxtReader {
-    public static String get(Context context,String txt_source){
+    public static String TXTFromAsset(Context context,String txt_source){
         InputStream inputStream = null;
         try {
             inputStream = context.getAssets().open(txt_source);
@@ -30,6 +30,6 @@ public class TxtReader {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return ArtificialIntelligence.set_keys(new String(buffer));
+        return new String(buffer);
     }
 }

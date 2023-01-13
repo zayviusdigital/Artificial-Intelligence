@@ -7,7 +7,7 @@ import java.nio.charset.StandardCharsets;
 public class Encryption {
 
 
-    public static String get(String string){
+    public static String GET(String string){
         String[] get_key1 = key(string).split("//");
         return get_key1[0]+"//"+hash(string);
     }

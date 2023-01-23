@@ -2,6 +2,9 @@
 # Artificial-Intelligence
 Zayvius Artificial Intelligence
 
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zayviusdigital)
+
 ### License
 ```
    Copyright (C) 2023 Zayvius Digital

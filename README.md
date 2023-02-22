@@ -1,4 +1,5 @@
 [![](https://jitpack.io/v/zayviusdigital/Artificial-Intelligence.svg)](https://jitpack.io/#zayviusdigital/Artificial-Intelligence)
+[![Maven Central](https://img.shields.io/maven-central/v/com.zayviusdigital/artificialintelligence.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.zayviusdigital%22%20AND%20a:%22artificialintelligence%22)
 # Artificial-Intelligence
 Zayvius Artificial Intelligence
 
